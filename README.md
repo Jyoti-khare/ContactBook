@@ -1,8 +1,9 @@
 # ContactBook
-In this ContactBook user can maintain their contacts. Contacts are recorded in a file that leads to save contacts in offline mode.
+In this ContactBook user can maintain their contacts. Contacts are then saved in a file.
 
 This ContactBook has various functionalities: 
-1.Add Contact
+
+1. Add Contact
 2. Edit Contact
 3. Delete Contact
 4. Search Contact
